@@ -67,7 +67,8 @@
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=portfolio&theme=radical)](https://github.com/abhidev17/portfolio)
 --------------
-# 🐍 Contribution Snake
+
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake-dark.svg" />
