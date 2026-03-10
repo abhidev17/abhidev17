@@ -65,6 +65,11 @@
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abhidev17&theme=radical)
 
 ---
+## 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhidev17&theme=radical"/>
+</p>
 
 ## ⏱ Weekly Coding Stats
 
