@@ -63,11 +63,9 @@
 
 # 🚀 Featured Projects
 
-[![Campus Rideshare](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=Campus-Rideshare-Application&theme=radical)](https://github.com/abhidev17)
+[![Campus Rideshare](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=campus-rideshare&theme=radical)](https://github.com/abhidev17/campus-rideshare)
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=portfolio&theme=radical)](https://github.com/abhidev17)
-
----
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=portfolio&theme=radical)](https://github.com/abhidev17/portfolio)
 
 # 🐍 Contribution Snake
 
