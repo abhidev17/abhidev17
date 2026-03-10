@@ -61,9 +61,9 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-[![Campus Rideshare](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=campus-rideshare&theme=radical)](https://github.com/abhidev17/campus-rideshare)
+[![RideShare](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=RideShare&theme=radical)](https://github.com/abhidev17/RideShare)
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=portfolio&theme=radical)](https://github.com/abhidev17/portfolio)
 
