@@ -55,6 +55,12 @@
 
 ---
 
+## ⏱ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=abhidev17&theme=radical&no-frame=false&margin-w=4)
