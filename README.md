@@ -1,18 +1,26 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-# Hi, I'm Abhidev Mohan
+<br>
 
-💻 Computer Science Student @ SJCET Palai  
-🚀 Aspiring Software Engineer  
-📚 Currently learning **DSA & Web Development**
+# 👋 Hi, I'm Abhidev
+
+🚀 Computer Science Student | Future Software Engineer  
+🎓 Studying at **SJCET Palai**
+
+- 🌱 Currently learning **DSA & Web Development**
+- 💻 Love **C, Java, JavaScript**
+- 🎯 Goal: Become a strong software engineer
+- ⚡ Interested in **AI and Software Development**
+
+<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhidev-mohan-7a300934b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhidev-mohan-7a300934b)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/Abhidev17)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Abhidev17)
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhidevmohan17@gmail.com)
 
@@ -39,37 +47,38 @@
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abhidev17&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhidev17&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhidev17&layout=donut&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhidev17&layout=compact&theme=radical)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=abhidev17&theme=radical)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abhidev17&theme=radical)
 
 ---
 
-# ⏱ Weekly Coding Stats
+## ⏱ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
+```txt
+No activity tracked
+```
 
----
+<!--END_SECTION:waka-->
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=abhidev17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=abhidev17&theme=radical&no-frame=false&margin-w=4)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 [![RideShare](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=RideShare&theme=radical)](https://github.com/abhidev17/RideShare)
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=portfolio&theme=radical)](https://github.com/abhidev17/portfolio)
+--------------
 
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake-dark.svg" />
@@ -77,6 +86,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake.svg" />
 </picture>
 
----
-
-<img src="https://komarev.com/ghpvc/?username=abhidev17&label=Profile%20views&color=0e75b6&style=flat"/>
+![Profile Views](https://komarev.com/ghpvc/?username=abhidev17&color=blue)
