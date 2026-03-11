@@ -6,9 +6,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Abhidev+Mohan;Computer+Science+Student;Future+Software+Engineer;Learning+DSA+%26+Web+Development" />
 </p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7b2c7d59-16b6-4c0e-b7a5-9a9c2c5f0c6f.gif" width="700">
-</p>
 
 
 
