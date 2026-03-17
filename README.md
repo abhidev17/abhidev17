@@ -90,12 +90,13 @@ Bash         13 mins               ▓░░░░░░░░░░░░░░
 ![](https://github-profile-trophy.vercel.app/?username=abhidev17&theme=radical&no-frame=false&margin-w=4)
 
 ---
-
 ## 🚀 Featured Projects
 
 [![RideShare](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=RideShare&theme=radical)](https://github.com/abhidev17/RideShare)
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=portfolio&theme=radical)](https://github.com/abhidev17/portfolio)
+
+[![QueueLessPrint](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=QueueLessPrint&theme=radical)](https://github.com/abhidev17/QueueLessPrint)
 --------------
 
 ## 🐍 Contribution Snake
