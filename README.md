@@ -1,12 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:38BDF8&text=Abhidev%20Mohan&fontColor=ffffff&fontSize=52&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Abhidev%20Mohan&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1500&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Computer+Science+Student;Building+Modern+Web+Applications;Clean+Code+%7C+Thoughtful+Design"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Computer+Science+Student;Building+Modern+Web+Applications;Clean+Code+%7C+Thoughtful+Design"/>
 
 <br><br>
+
+<p>
 
 <a href="https://linkedin.com/in/abhidev-mohan-7a300934b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,29 +22,116 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
+</p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=abhidev17&style=for-the-badge&color=2563EB"/>
+
 </div>
 
 ---
-
-## About
-
-I'm **Abhidev**, a Computer Science student passionate about building polished web experiences with modern technologies.
-
-I enjoy designing responsive interfaces, developing full-stack applications, and continuously improving my skills through hands-on projects and open-source learning.
-
----
-
-## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,js,react,nodejs,express,mongodb,git,github,vscode,vite,figma&perline=6"/>
+# Hi, I'm Abhidev 👋
+
+### Full Stack Developer • Computer Science Student
+
+Building scalable web applications, exploring modern technologies, and continuously improving through real-world projects.
+
+</div>
+<br>
+
+<div align="center">
+
+## About Me
 
 </div>
 
----
+<table>
+<tr>
 
-## Featured Projects
+<td width="60%">
+
+I'm **Abhidev Mohan**, a Computer Science student who enjoys transforming ideas into polished digital products.
+
+My passion lies in building fast, responsive and visually appealing web applications while writing clean, maintainable code.
+
+I'm constantly learning new technologies, improving my problem-solving skills, and exploring modern software engineering practices.
+
+Outside of coding, I enjoy designing beautiful user interfaces, experimenting with new frameworks, and contributing to personal projects that challenge me.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhidev17&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+<div align="center">
+
+# ⚡ Tech Arsenal
+
+</div>
+
+<table>
+
+<tr>
+
+<td align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,java,js"/>
+
+</td>
+
+<td align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</td>
+
+<td align="center">
+
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,figma"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+<div align="center">
+
+# 🚀 Featured Work
+
+<i>Projects I'm proud of.</i>
+
+</div>
 
 <table>
 
@@ -50,37 +139,64 @@ I enjoy designing responsive interfaces, developing full-stack applications, and
 
 <td width="33%" valign="top">
 
-### 🌐 Portfolio
+## 🌐 Portfolio
 
-Modern portfolio built with React and Vite featuring smooth animations, glassmorphism, responsive layouts, and interactive UI.
+A modern portfolio built with **React**, **Vite**, and smooth animations.
+
+### Highlights
+
+- Responsive UI
+- Modern Design
+- Fast Performance
+- Clean Architecture
 
 <br>
 
-<a href="https://github.com/abhidev17/portfolio_17">Repository →</a>
+<a href="https://github.com/abhidev17/portfolio_17">
+Repository →
+</a>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 💰 FinTrack
+## 💰 FinTrack
 
-A responsive budget management application for tracking expenses, budgets, and savings with a clean dashboard.
+A personal finance application for tracking expenses and managing budgets.
+
+### Highlights
+
+- Expense Tracking
+- Dashboard
+- Savings Overview
+- Responsive Design
 
 <br>
 
-<a href="https://github.com/abhidev17/Budget-manager">Repository →</a>
+<a href="https://github.com/abhidev17/Budget-manager">
+Repository →
+</a>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 📝 Registration Form
+## 📝 Smart Registration Form
 
-Modern HTML, CSS and JavaScript registration form with accessibility, validation, and polished interactions.
+A polished registration form showcasing modern JavaScript techniques.
+
+### Highlights
+
+- Password Strength Meter
+- Live Validation
+- Accessibility
+- Mobile Friendly
 
 <br>
 
-<a href="https://github.com/abhidev17/smart-registration-form">Repository →</a>
+<a href="https://github.com/abhidev17/smart-registration-form">
+Repository →
+</a>
 
 </td>
 
@@ -90,66 +206,94 @@ Modern HTML, CSS and JavaScript registration form with accessibility, validation
 
 ---
 
-## GitHub Overview
+<div align="center">
 
-<p align="center">
+# 📊 Developer Dashboard
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhidev17&theme=github_dark"/>
 
-</p>
+</div>
 
 ---
+<div align="center">
 
-## Current Focus
+# 💻 Current Focus
 
-```ts
+</div>
+
+```typescript
 const abhidev = {
+    role: "Computer Science Student",
+
     learning: [
         "React",
         "Node.js",
+        "Express",
         "MongoDB",
-        "System Design"
+        "Data Structures & Algorithms"
     ],
 
     building: [
-        "Modern Web Applications",
-        "Full Stack Projects",
-        "Beautiful User Interfaces"
+        "Full Stack Applications",
+        "Interactive User Interfaces",
+        "Responsive Web Experiences"
     ],
 
     exploring: [
         "Artificial Intelligence",
-        "Cloud Technologies"
-    ]
+        "System Design",
+        "Cloud Computing"
+    ],
+
+    motto: "Keep Learning. Keep Building."
 };
 ```
 
 ---
+<div align="center">
 
-## Contribution Snake
+# 🐍 Contribution Journey
 
 <picture>
 
 <source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake-dark.svg"/>
+srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake-dark.svg">
 
 <source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake.svg"/>
+srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake.svg">
 
-<img src="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake.svg"/>
+<img alt="github contribution snake"
+src="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake.svg"/>
 
 </picture>
 
----
+</div>
 
-<div align="center">
+---<div align="center">
 
-> *"Build software that's simple, elegant, and meaningful."*
+# 🐍 Contribution Journey
 
-<br>
+<picture>
 
-<img src="https://komarev.com/ghpvc/?username=abhidev17&style=for-the-badge&color=2563EB"/>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake.svg">
+
+<img alt="github contribution snake"
+src="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake.svg"/>
+
+</picture>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:38BDF8,100:0F172A"/>
+---<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F172A,50:2563EB,100:38BDF8"/>
+
+<img src="https://komarev.com/ghpvc/?username=abhidev17&style=for-the-badge&color=2563EB"/>
+
+### Thanks for stopping by 👋
+
+</div>
