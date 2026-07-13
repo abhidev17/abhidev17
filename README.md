@@ -52,7 +52,7 @@ Building scalable web applications, exploring modern technologies, and continuou
 <table>
 <tr>
 
-<td width="100%">
+<p>
 
 I'm **Abhidev Mohan**, a Computer Science student who enjoys transforming ideas into polished digital products.
 
@@ -62,12 +62,12 @@ I'm constantly learning new technologies, improving my problem-solving skills, a
 
 Outside of coding, I enjoy designing beautiful user interfaces, experimenting with new frameworks, and contributing to personal projects that challenge me.
 
-</td>
-
-<td  >
+</p>
 
 
-</td>
+
+
+
 
 </tr>
 </table>
