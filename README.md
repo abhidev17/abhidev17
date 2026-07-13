@@ -64,7 +64,7 @@ Outside of coding, I enjoy designing beautiful user interfaces, experimenting wi
 
 </td>
 
-<td width="40%" align="center">
+<td  align="center">
 
 
 </td>
