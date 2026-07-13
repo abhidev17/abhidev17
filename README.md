@@ -66,7 +66,6 @@ Outside of coding, I enjoy designing beautiful user interfaces, experimenting wi
 
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhidev17&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8"/>
 
 </td>
 
@@ -208,14 +207,6 @@ Repository →
 
 <div align="center">
 
-# 📊 Developer Dashboard
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhidev17&theme=github_dark"/>
-
-</div>
-
----
-<div align="center">
 
 # 💻 Current Focus
 
