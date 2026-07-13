@@ -1,105 +1,152 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-
-
-
-<br>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Abhidev+Mohan;Computer+Science+Student;Future+Software+Engineer;Learning+DSA+%26+Web+Development" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Abhidev%20Mohan&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
+
 </p>
 
-
-
-
-👋 Hi, I'm Abhidev
-
-🚀 Computer Science Student | Future Software Engineer  
-🎓 Studying at **SJCET Palai**
-
-- 🌱 Currently learning **DSA & Web Development**
-- 💻 Love **C, Java, JavaScript**
-- 🎯 Goal: Become a strong software engineer
-- ⚡ Interested in **AI and Software Development**
-
-<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
-
----
-
-# 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhidev-mohan-7a300934b)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Abhidev17)
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhidevmohan17@gmail.com)
-
----
-
-# 💻 Tech Stack
-
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Computer+Science+Student;Open+Source+Enthusiast;Building+Projects+Every+Week;Preparing+for+GSoC+2027" />
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 👋 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhidev17&show_icons=true&theme=radical)
+🎓 B.Tech Computer Science Student at **SJCET Palai**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhidev17&layout=compact&theme=radical)
+💻 Passionate about building modern web applications
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abhidev17&theme=radical)
+🌱 Currently learning
+
+- Data Structures & Algorithms
+- MERN Stack
+- Open Source Development
+- System Design
+
+🎯 Goal
+
+Become a Software Engineer contributing to impactful Open Source projects.
 
 ---
-## 📈 GitHub Activity Graph
+
+# 🚀 Tech Stack
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhidev17&theme=github-dark"/>
+
+<img src="https://skillicons.dev/icons?i=c,java,js,html,css,react,nodejs,express,mongodb,git,github,vscode,vite&perline=7"/>
+
 </p>
 
-## ⏱ Weekly Coding Stats
+---
 
-<!--START_SECTION:waka-->
+# 📊 GitHub
 
-```txt
-Markdown     3 mins                █████████████████▒░░░░░░░   69.91 %
-Other        0 secs                ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
-Git Config   0 secs                ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
-```
+<p align="center">
 
-<!--END_SECTION:waka-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhidev17&theme=github_dark"/>
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=abhidev17&theme=radical&no-frame=false&margin-w=4)
+</p>
 
 ---
-## 🚀 Featured Projects
 
-[![RideShare](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=RideShare&theme=radical)](https://github.com/abhidev17/RideShare)
+# 🚀 Featured Projects
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=portfolio&theme=radical)](https://github.com/abhidev17/portfolio)
+### 🌐 Premium Portfolio
 
-[![QueueLessPrint](https://github-readme-stats.vercel.app/api/pin/?username=abhidev17&repo=QueueLessPrint&theme=radical)](https://github.com/abhidev17/QueueLessPrint)
---------------
+Modern React Portfolio featuring glassmorphism, animations, particle backgrounds and responsive UI.
 
-## 🐍 Contribution Snake
+🔗 https://github.com/abhidev17/portfolio_17
+
+---
+
+### 💰 FinTrack Budget Manager
+
+A responsive budget management application built using React.
+
+Features
+
+- Expense Tracking
+- Budget Planning
+- Savings Management
+- Financial Dashboard
+
+🔗 https://github.com/abhidev17/Budget-manager
+
+---
+
+### 📝 Smart Registration Form
+
+A production-quality registration form built using pure HTML, CSS and JavaScript.
+
+Features
+
+- Password Strength Meter
+- Live Validation
+- Progress Tracker
+- Accessibility Support
+- Responsive Design
+
+🔗 https://github.com/abhidev17/smart-registration-form
+
+---
+
+# 📚 Currently Learning
+
+✔ Data Structures
+
+✔ React
+
+✔ Node.js
+
+✔ MongoDB
+
+✔ Express
+
+✔ GitHub Actions
+
+✔ Open Source Contribution
+
+---
+
+# 📈 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake.svg" />
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake.svg">
+
+<img alt="Snake"
+src="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake.svg">
+
 </picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhidev17&color=blue)
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/abhidev-mohan-7a300934b">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:abhidevmohan17@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://leetcode.com/Abhidev17">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
+</a>
+
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=abhidev17&label=Profile%20Views&color=0e75b6&style=flat)
+
+> *"Code. Learn. Build. Repeat."*
