@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,35:2563EB,70:06B6D4,100:38BDF8&text=Abhidev%20Mohan&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:38BDF8&text=Abhidev%20Mohan&fontColor=ffffff&fontSize=52&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Computer+Science+Student;Building+Modern+Web+Experiences;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1500&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Computer+Science+Student;Building+Modern+Web+Applications;Clean+Code+%7C+Thoughtful+Design"/>
 
 <br><br>
 
@@ -24,101 +24,63 @@
 
 ---
 
-# 👋 About Me
+## About
 
-```cpp
-class Abhidev {
+I'm **Abhidev**, a Computer Science student passionate about building polished web experiences with modern technologies.
 
-public:
-
-    string education = "B.Tech CSE @ SJCET Palai";
-
-    string interests[4] = {
-        "Full Stack Development",
-        "Open Source",
-        "Artificial Intelligence",
-        "Software Engineering"
-    };
-
-    string currentlyLearning[4] = {
-        "React",
-        "Node.js",
-        "MongoDB",
-        "Data Structures"
-    };
-
-};
-```
+I enjoy designing responsive interfaces, developing full-stack applications, and continuously improving my skills through hands-on projects and open-source learning.
 
 ---
 
-# ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,express,mongodb,git,github,vscode,vite,figma&perline=8"/>
+<img src="https://skillicons.dev/icons?i=c,java,js,react,nodejs,express,mongodb,git,github,vscode,vite,figma&perline=6"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
 <table>
 
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 🌐 Portfolio
 
-Premium personal portfolio built using **React**, **Vite**, animations and modern UI.
+Modern portfolio built with React and Vite featuring smooth animations, glassmorphism, responsive layouts, and interactive UI.
 
-🔹 Glassmorphism
+<br>
 
-🔹 Framer Motion
-
-🔹 Responsive
-
-🔹 Interactive Design
-
-<a href="https://github.com/abhidev17/portfolio_17">View Repository →</a>
+<a href="https://github.com/abhidev17/portfolio_17">Repository →</a>
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 💰 FinTrack
 
-A smart budget manager built with React.
+A responsive budget management application for tracking expenses, budgets, and savings with a clean dashboard.
 
-🔹 Dashboard
+<br>
 
-🔹 Budget Planning
-
-🔹 Expense Tracking
-
-🔹 Savings Overview
-
-<a href="https://github.com/abhidev17/Budget-manager">View Repository →</a>
+<a href="https://github.com/abhidev17/Budget-manager">Repository →</a>
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### 📝 Smart Registration
+### 📝 Registration Form
 
-Modern HTML/CSS/JS form.
+Modern HTML, CSS and JavaScript registration form with accessibility, validation, and polished interactions.
 
-🔹 Password Strength
+<br>
 
-🔹 Live Validation
-
-🔹 Accessibility
-
-🔹 Responsive UI
-
-<a href="https://github.com/abhidev17/smart-registration-form">View Repository →</a>
+<a href="https://github.com/abhidev17/smart-registration-form">Repository →</a>
 
 </td>
 
@@ -128,25 +90,51 @@ Modern HTML/CSS/JS form.
 
 ---
 
-# 📊 GitHub Overview
+## GitHub Overview
 
-<div align="center">
+<p align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhidev17&theme=github_dark"/>
 
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Snake
+## Current Focus
+
+```ts
+const abhidev = {
+    learning: [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "System Design"
+    ],
+
+    building: [
+        "Modern Web Applications",
+        "Full Stack Projects",
+        "Beautiful User Interfaces"
+    ],
+
+    exploring: [
+        "Artificial Intelligence",
+        "Cloud Technologies"
+    ]
+};
+```
+
+---
+
+## Contribution Snake
 
 <picture>
 
 <source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake-dark.svg">
+srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake-dark.svg"/>
 
 <source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake.svg">
+srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake.svg"/>
 
 <img src="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snake.svg"/>
 
@@ -154,36 +142,14 @@ srcset="https://raw.githubusercontent.com/abhidev17/abhidev17/output/github-snak
 
 ---
 
-# 📚 Current Focus
-
-```text
-📌 Building polished full-stack applications
-
-📌 Strengthening Data Structures & Algorithms
-
-📌 Learning backend architecture
-
-📌 Improving UI/UX design
-
-📌 Exploring AI-powered applications
-```
-
----
-
-# 💭 Philosophy
-
-> "Great software isn't just code that works — it's code that's clean, intuitive, and built with purpose."
-
----
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=abhidev17&style=for-the-badge&color=0e75b6"/>
+> *"Build software that's simple, elegant, and meaningful."*
 
 <br>
 
-⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=abhidev17&style=for-the-badge&color=2563EB"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:38BDF8,100:0F172A"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:38BDF8,100:0F172A"/>
