@@ -52,7 +52,7 @@ Building scalable web applications, exploring modern technologies, and continuou
 <table>
 <tr>
 
-<td width="60%">
+<td width="100%">
 
 I'm **Abhidev Mohan**, a Computer Science student who enjoys transforming ideas into polished digital products.
 
