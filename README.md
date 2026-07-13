@@ -8,7 +8,7 @@
 
 <br><br>
 
-<p>
+<td width="100%">
 
 <a href="https://linkedin.com/in/abhidev-mohan-7a300934b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-</p>
+</td>
 
 <br>
 
