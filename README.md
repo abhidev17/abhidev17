@@ -65,14 +65,7 @@ currently_learning:
   - Data Structures & Algorithms
 
 
-passion:
-  Building fast, scalable and user-friendly web applications.
 
-fun_fact:
-  "I turn 'It works on my machine' into 'It works everywhere.'"
-
-motto:
-  Keep Learning • Keep Building
 ```
 
 ---
