@@ -42,7 +42,6 @@
 
 ### 💻 Full Stack Developer • Computer Science Engineering Student
 
-*"Building clean, scalable, and impactful software one project at a time."*
 
 </div>
 
@@ -53,7 +52,6 @@
 ```yaml
 name: Abhidev Mohan
 
-role: Full Stack Developer
 
 education: Computer Science Engineering Student
 
@@ -66,10 +64,6 @@ currently_learning:
   - MongoDB
   - Data Structures & Algorithms
 
-exploring:
-  - Artificial Intelligence
-  - Cloud Computing
-  - System Design
 
 passion:
   Building fast, scalable and user-friendly web applications.
@@ -142,13 +136,7 @@ motto:
 
 Modern personal portfolio built with **React** and **Vite**.
 
-### ✨ Features
-
-- 🎨 Modern UI
-- 📱 Responsive Design
-- ⚡ Fast Performance
-- 🎬 Smooth Animations
-- 🌙 Dark Theme
+### 
 
 <br>
 
@@ -234,48 +222,7 @@ Smart campus printing system developed as a DBMS project.
 
 ---
 
-# 💻 Current Focus
-
-```typescript
-const abhidev = {
-
-    role: "Computer Science Engineering Student",
-
-    currentlyLearning: [
-        "React",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "REST APIs",
-        "Data Structures & Algorithms"
-    ],
-
-    building: [
-        "Full Stack Web Applications",
-        "Responsive User Interfaces",
-        "Personal Projects",
-        "Modern Web Experiences"
-    ],
-
-    exploring: [
-        "Artificial Intelligence",
-        "Cloud Computing",
-        "System Design",
-        "Open Source"
-    ],
-
-    goals: [
-        "Become a Full Stack Engineer",
-        "Contribute to Open Source",
-        "Solve 500+ LeetCode Problems",
-        "Build Real-World Applications"
-    ],
-
-    motto: "Keep Learning • Keep Building 🚀"
-
-};
-```
-
+# 
 ---
 
 # 🌱 Currently Learning
@@ -296,23 +243,13 @@ const abhidev = {
 
 ---
 
-# 🎯 2026 Goals
 
-- ✅ Build high-quality Full Stack Projects
-- 📚 Master MERN Stack Development
-- 💻 Solve 500+ DSA Problems
-- 🌐 Contribute to Open Source
-- 🚀 Secure a Software Development Internship
-- ☁ Learn Cloud Computing
-- 🤖 Explore AI Development
-- ⭐ Grow my GitHub Profile
 
 ---
 
 <div align="center">
 
-### 💡 *"Every expert was once a beginner. Every project makes me better."*
-
+###
 </div>
 
 ---
